@@ -3,7 +3,7 @@ This repo contains a take away assignment handed over by Lecturer
 
 Q1.txt - discuss the qualities of a good program.
 
-Q2.c is a program that inputs one five digit number, seperates the number into its individual digits and prints the digits seperated from one another by three spaces each.
+Q2.c is a C program that inputs one five digit number, seperates the number into its individual digits and prints the digits seperated from one another by three spaces each.
 
 Q3.c is a C program that calcultes the square and cubes of the number from 0 to 10 and uses tabs to print the following table of values.
 
