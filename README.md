@@ -1,5 +1,5 @@
 # Project-C
-This repo contains a take away assignment handed over by Lecturer
+This repo contains a take away assignment handed over my Lecturer
 
 Q1.txt - discuss the qualities of a good program.
 
