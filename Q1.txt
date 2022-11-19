@@ -1,0 +1,15 @@
+1. A good program should be efficient; it should perform the desired function and also give the desired output.
+
+2. A good program should be easy to maintain.
+
+3. It should be flexible enough to be modified and reused to design other programs.
+
+4. It should be understandible by someone who knows the the programming language.
+
+5. It should be well documentated i.e  enough comments should be inserted  in a program to facilitate its understanding by any computer user.
+
+6. It should be portable i.e it should have the ability to run on different computer architecture with minimal changes.
+
+7. It should be readable and clear in such a way that other programmers follow the logic of the program without much effort.
+
+8. It should be flexible enough to handle most of the changes without having to change or rewrite the entire program.
